@@ -1,0 +1,30 @@
+{
+  "UserSeqId": "1303116466350176937",
+  "TotalCount": 10,
+  "PageSize": 10,
+  "CaseList": [
+    {
+      "CaseMainID": "303029369478868741",
+      "CaseSN": "PCM2606030034",
+      "CaseCode": "P2055635",
+      "PatientName": "Meitzu Lin",
+      "PatientGender": null,
+      "PatientContact": null,
+      "PatientAge": 1985,
+      "HospitalID": "1352156786547377228",
+      "HospitalName": null,
+      "ReceiveAddressID": null,
+      "CreateTime": "2026-06-03",
+      "Type": 1,
+      "SubType": 4,
+      "ProductSeriesID": "1367275239812388582",
+      "CasePropertyText": null,
+      "Notes": null,
+      "CaseFiles": null,
+      "TreatPlanItem": null,
+      "CaseMainExtendItem": null
+    }
+  ],
+  "Sort": false,
+  "PageIndex": 1
+}

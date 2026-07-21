@@ -1,0 +1,31 @@
+{
+  "ProductSeriesItems": [
+    { "ProductSeriesID": "1367257336199992117", "ProductSeriesName": "Zenyum 1-TW" },
+    { "ProductSeriesID": "1367258435711619894", "ProductSeriesName": "Zenyum 2" },
+    { "ProductSeriesID": "1367259535223247671", "ProductSeriesName": "Zenyum 3" },
+    { "ProductSeriesID": "1367259372804640969", "ProductSeriesName": "Zenyum A-TW" },
+    { "ProductSeriesID": "136774675309875126", "ProductSeriesName": "Zenyum 1" },
+    { "ProductSeriesID": "1367115872294015415", "ProductSeriesName": "Zenyum 2-TH" },
+    { "ProductSeriesID": "1367267550161212344", "ProductSeriesName": "Zenyum 3-TH" },
+    { "ProductSeriesID": "1367219973958242777", "ProductSeriesName": "Zenyum 2-TW" },
+    { "ProductSeriesID": "1367234293068056794", "ProductSeriesName": "Zenyum 3-TW" },
+    { "ProductSeriesID": "136779775533231401", "ProductSeriesName": "Zenyum 1-TH" },
+    { "ProductSeriesID": "1367228837923286570", "ProductSeriesName": "Zenyum TP-1" },
+    { "ProductSeriesID": "136753218348256100", "ProductSeriesName": "Zenyum R" },
+    { "ProductSeriesID": "1367103777498975077", "ProductSeriesName": "Zenyum R-TH" },
+    { "ProductSeriesID": "136763259569048678", "ProductSeriesName": "Zenyum R-TW" },
+    { "ProductSeriesID": "136744740004402917", "ProductSeriesName": "Zenyum TP-0" },
+    { "ProductSeriesID": "1367275239812388582", "ProductSeriesName": "Zenyum 0" },
+    { "ProductSeriesID": "1367114715580487399", "ProductSeriesName": "Zenyum 0-TW" },
+    { "ProductSeriesID": "1367197302905703691", "ProductSeriesName": "Zenyum 0-TH" },
+    { "ProductSeriesID": "136715284394535429", "ProductSeriesName": "ZenyumPro Unlimited" },
+    { "ProductSeriesID": "136715284413194757", "ProductSeriesName": "ZenyumPro Unlimited-TW" },
+    { "ProductSeriesID": "136715284753699333", "ProductSeriesName": "ZenyumPro Unlimited-TH" },
+    { "ProductSeriesID": "136715285571949573", "ProductSeriesName": "ZenyumPro 2" },
+    { "ProductSeriesID": "136715285584128517", "ProductSeriesName": "ZenyumPro 2-TW" },
+    { "ProductSeriesID": "136715285595382277", "ProductSeriesName": "ZenyumPro 2-TH" },
+    { "ProductSeriesID": "136715285621617669", "ProductSeriesName": "ZenyumPro 1" },
+    { "ProductSeriesID": "136715285638212101", "ProductSeriesName": "ZenyumPro 1-TW" },
+    { "ProductSeriesID": "136715285648840197", "ProductSeriesName": "ZenyumPro 1-TH" }
+  ]
+}

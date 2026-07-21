@@ -1,0 +1,77 @@
+{
+  "caseDesignFeedBacks": [
+    {
+      "canAdd": false,
+      "caseDesignsFeedBackItems": [
+        {
+          "isFeedBack": true,
+          "erpContent": "Dear Zenyum doctor, the animation has been modified according to your feedback request, please check it.",
+          "caseDesignFeedBackID": "303029635569411333",
+          "feedBackPhotos": null,
+          "canDelete": false,
+          "canUpdate": false,
+          "erpFeedBackTime": "2026-06-15 07:04:10",
+          "isRead": true,
+          "content": "Do no close space distal to 24 as we are shifting the midline and disturbing the occlusion as well. Thank you",
+          "createTime": "2026-06-15 04:07:14"
+        }
+      ],
+      "caseDesignID": "303029169855885829"
+    },
+    {
+      "canAdd": false,
+      "caseDesignsFeedBackItems": [
+        {
+          "isFeedBack": true,
+          "erpContent": "Dear Zenyum doctor, the animation has been modified according to your feedback request, please check it.",
+          "caseDesignFeedBackID": "303030102097152261",
+          "feedBackPhotos": null,
+          "canDelete": false,
+          "canUpdate": false,
+          "erpFeedBackTime": "2026-07-06 08:55:35",
+          "isRead": true,
+          "content": "Please upgrade this case to ZE (45 sets) to achieve complete space closure and improve the occlusion as much as possible.",
+          "createTime": "2026-07-06 06:20:08"
+        }
+      ],
+      "caseDesignID": "303029372252861189"
+    },
+    {
+      "canAdd": false,
+      "caseDesignsFeedBackItems": [
+        {
+          "isFeedBack": true,
+          "erpContent": "Dear Zenyum doctor, the animation has been modified according to your feedback request, please check it.",
+          "caseDesignFeedBackID": "303030160841111813",
+          "feedBackPhotos": null,
+          "canDelete": false,
+          "canUpdate": false,
+          "erpFeedBackTime": "2026-07-12 10:38:19",
+          "isRead": true,
+          "content": "Treatment plan needs to be re-simulated\nAdditional Comments: Please revise the treatment plan to exclude the extraction of tooth #25, thank you.",
+          "createTime": "2026-07-08 22:04:36"
+        }
+      ],
+      "caseDesignID": "303029994008924677"
+    },
+    {
+      "canAdd": false,
+      "caseDesignsFeedBackItems": [
+        {
+          "isFeedBack": true,
+          "erpContent": "Dear Zenyum doctor, the animation has been modified according to your feedback request, please check it.",
+          "caseDesignFeedBackID": "303030213243591685",
+          "feedBackPhotos": null,
+          "canDelete": false,
+          "canUpdate": false,
+          "erpFeedBackTime": "2026-07-12 10:38:19",
+          "isRead": true,
+          "content": "Please do not move 25 and adjust accordingly. Thank you",
+          "createTime": "2026-07-11 06:56:13"
+        }
+      ],
+      "caseDesignID": "303030189306704645"
+    }
+  ],
+  "caseMainID": "303029156462264325"
+}

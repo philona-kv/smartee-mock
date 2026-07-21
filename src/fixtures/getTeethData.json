@@ -1,0 +1,54 @@
+{
+  "noOfAlignerSet": 31,
+  "noOfIPRStage": "",
+  "SpecialNotes": [
+    "1.Clear aligner treatment should be performed after the clinician has ruled out abnormalities in the teeth, periodontal condition, jaws, TMJ, etc. based on clinical and imaging examinations.",
+    "2.Perform occlusal adjustment if an occlusal interference occurs between the upper and lower anterior teeth during treatment. This helps to reduce the effects of unwanted occlusal trauma such as increased tooth mobility.",
+    "3.Please pay close attention to the periodontal condition of the patient during the course of the treatment. Regular maintenance and good oral hygiene is essential."
+  ],
+  "Auxilliary": [],
+  "AlignerSetSize": 33,
+  "Extraction": "None",
+  "TreatmentSteps": [
+    {
+      "SetNo": 1,
+      "Attachment": "<Buccal(13,14,15,16,22,23,24,25,33,34,35,36,42,43,44,45)>",
+      "RemoveAttachment": null,
+      "IPR": [
+        { "Position": "33-34", "Value": "0.5mm" },
+        { "Position": "34-35", "Value": "0.5mm" },
+        { "Position": "35-36", "Value": "0.5mm" },
+        { "Position": "44-43", "Value": "0.5mm" },
+        { "Position": "45-44", "Value": "0.5mm" },
+        { "Position": "46-45", "Value": "0.5mm" }
+      ],
+      "addButton": null,
+      "removeButton": null
+    },
+    {
+      "SetNo": 11,
+      "Attachment": null,
+      "RemoveAttachment": null,
+      "IPR": [
+        { "Position": "31-32", "Value": "0.5mm" },
+        { "Position": "41-31", "Value": "0.5mm" }
+      ],
+      "addButton": null,
+      "removeButton": null
+    },
+    {
+      "SetNo": 22,
+      "Attachment": null,
+      "RemoveAttachment": null,
+      "IPR": [
+        { "Position": "32-33", "Value": "0.5mm" },
+        { "Position": "42-41", "Value": "0.5mm" },
+        { "Position": "43-42", "Value": "0.5mm" }
+      ],
+      "addButton": null,
+      "removeButton": null
+    }
+  ],
+  "animationVersionNumber": 1,
+  "noOfAttachmentsTemplateSet": 2
+}

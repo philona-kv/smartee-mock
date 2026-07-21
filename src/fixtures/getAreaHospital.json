@@ -1,0 +1,22 @@
+{
+  "HospitalAreaList": [
+    {
+      "HospitalID": "551f9159-f8f1-ff11-ae44-083e03010000",
+      "HospitalName": "Zenyum Test",
+      "FullAddress": "Zenyum Test",
+      "ReceiveAddressID": "7920dbc6-f8f1-ff11-ae44-148507010000"
+    },
+    {
+      "HospitalID": "135220931804606991",
+      "HospitalName": "Zenyum-TW",
+      "FullAddress": "Taiwan Test Address",
+      "ReceiveAddressID": "134970019736919255"
+    },
+    {
+      "HospitalID": "135283844221245253",
+      "HospitalName": "Zenyum TP",
+      "FullAddress": "81 Ayer Rajah Crescent, JTC Launchpad 01-69",
+      "ReceiveAddressID": "134970019736919255"
+    }
+  ]
+}
