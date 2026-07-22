@@ -150,7 +150,7 @@ export function buildCaseFlowForStored(stored: StoredCase) {
           DesignPlayPath: `https://check.zenyumsmileplans.com/#playerPC?playerUrl=mock/designpath.smapro&caseDesignID=${designId}&type=2&source=16`,
           DesignPlayReadPath: `https://check.zenyumsmileplans.com/#playerPC?playerUrl=mock/designpath.smapro&caseDesignID=${designId}&type=2&source=16`,
           DesignPlayNotConfirmPath: `https://check.zenyumsmileplans.com/#playerPC?playerUrl=mock/designpath.smapro&caseDesignID=${designId}&disConfirm=true&type=2&source=16`,
-          ExplainPath: `https://sdownload.smartee.cn/F?path=createPdf/mock/designexplain_${designId}.pdf`,
+          ExplainPath: `https://sdownload.smartee.cn/F?path=createPdf/BKT/smartawsapse1/1e506cdd-ab7a-478e-8a8b-6f377f89da48/20260719215900181/designexplain__e40cde3f-c699-4281-a24b-4eb6b852c2c0.pdf`,
           UpperTotalSteps: null,
           LowerTotalSteps: null,
           DesignID: designId,
